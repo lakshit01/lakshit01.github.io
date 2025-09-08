@@ -1,4 +1,4 @@
-# Aravinth's Portfolio Website
+# Lakshit's Portfolio Website
 
 A modern, responsive portfolio website showcasing Lakshit's skills, projects, and professional experience.
 
@@ -99,5 +99,6 @@ The contact form uses Formspree to handle submissions. To configure it for your 
 - Icons: [Font Awesome](https://fontawesome.com/)
 - Fonts: [Google Fonts](https://fonts.google.com/)
 - Form Handling: [Formspree](https://formspree.io/)
+
 
 
